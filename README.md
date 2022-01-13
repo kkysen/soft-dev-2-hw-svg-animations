@@ -1,4 +1,4 @@
-# SoftDev - HW - SVG Animations
+# Soft Dev 2 - HW - SVG Animations
 
 A recreation of the Animations in [BallAnimations](https://github.com/kkysen/BallAnimation) 
 using SVG instead of the Canvas API.
